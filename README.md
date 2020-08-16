@@ -1,13 +1,13 @@
 
+
+<div align=center> 
+
 | Platform            	| Android Studio                                              	|
 |---------------------	|-------------------------------------------------------------	|
-| language            	| Java,Kotlin                                                 	|
+| language            	| Java, Kotlin                                                 	|
 | DataBase            	| SQLite, Realm, Room                                         	|
-| Architecure Pattern 	| MVC,MVP,MVVM                                                	|
-| library             	| Gilde,ImageLoader,Dagger2,FCM,Admob,FireBase Crashlytics... 	|
-
-
-<div align=center>
+| Architecure Pattern 	| MVC, MVP, MVVM                                                	|
+| library             	| Gilde, ImageLoader, Dagger2, FCM, Admob, FireBase Crashlytics... 	|
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://choiJeongHyun.github.io/)](https://choi3950.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amnqkvl18500@gmail.com)](mailto:amnqkvl18500@gmail.com)
   
