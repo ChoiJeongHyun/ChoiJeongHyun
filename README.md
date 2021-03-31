@@ -16,7 +16,7 @@
 | Skill               	|                                                             	|
 |---------------------	|-------------------------------------------------------------	|
 | Platform            	| Android Studio                                              	|
-| language            	| Java,Kotlin                                                 	|
+| language            	| Java,Kotlin,RxJava                                                 	|
 | DataBase            	| SQLite, Realm, Room                                         	|
 | Architecure Pattern 	| MVC, MVP, MVVM                                                	|
 | library             	| Gilde, ImageLoader, Dagger2, FCM, Admob, FireBase Crashlytics... 	|
